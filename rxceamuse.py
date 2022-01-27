@@ -9,7 +9,7 @@
 
 
 
-    def chalo():
+
         done = False
         #here is the animation
         def animate():
