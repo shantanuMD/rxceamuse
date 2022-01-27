@@ -160,6 +160,6 @@ def hero():
 
 
 
-else:
-    banner='figlet AMUSEBOX'
-    system(banner)
+
+   
+
