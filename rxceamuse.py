@@ -10,7 +10,7 @@
 
 
 
-        done = False
+       
         #here is the animation
         def animate():
             for c in itertools.cycle(['|', '/', '-', '\\']) :
@@ -28,8 +28,8 @@
         time.sleep(20)
         done = True
 
-    def chalo1():
-        done = False
+    
+      
         #here is the animation
         def animate():
             for c in itertools.cycle(['|', '/', '-', '\\']):
